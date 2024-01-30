@@ -1,1 +1,1 @@
-[Link text]([https://website-name.com](https://dssautomation.github.io/githubPagesTestRepo/)https://dssautomation.github.io/githubPagesTestRepo/)
+We just updated our [Use Case Based Docu](https://dssautomation.github.io/githubPagesTestRepo/)!
